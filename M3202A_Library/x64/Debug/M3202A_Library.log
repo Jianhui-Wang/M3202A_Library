@@ -1,0 +1,15 @@
+﻿  stdafx.cpp
+  M3202A_Library.cpp
+c:\wjh\m3202a_library\m3202a_library\m3202a_library.cpp(463): warning C4267: 'argument': conversion from 'size_t' to 'uint32_t', possible loss of data
+c:\wjh\m3202a_library\m3202a_library\m3202a_library.cpp(463): warning C4244: 'argument': conversion from 'uint64_t' to 'uint32_t', possible loss of data
+c:\wjh\m3202a_library\m3202a_library\m3202a_library.cpp(468): warning C4267: 'argument': conversion from 'size_t' to 'uint32_t', possible loss of data
+c:\wjh\m3202a_library\m3202a_library\m3202a_library.cpp(468): warning C4244: 'argument': conversion from 'uint64_t' to 'uint32_t', possible loss of data
+c:\wjh\m3202a_library\m3202a_library\m3202a_library.cpp(473): warning C4267: 'argument': conversion from 'size_t' to 'uint32_t', possible loss of data
+c:\wjh\m3202a_library\m3202a_library\m3202a_library.cpp(473): warning C4244: 'argument': conversion from 'uint64_t' to 'uint32_t', possible loss of data
+  ddr.cpp
+  Generating Code...
+  dllmain.cpp
+     Creating library C:\wjh\M3202A_Library\x64\Debug\M3202A_Library.lib and object C:\wjh\M3202A_Library\x64\Debug\M3202A_Library.exp
+  M3202A_Library.vcxproj -> C:\wjh\M3202A_Library\x64\Debug\M3202A_Library.dll
+  M3202A_Library.vcxproj -> C:\wjh\M3202A_Library\x64\Debug\M3202A_Library.pdb (Full PDB)
+          1 file(s) copied.

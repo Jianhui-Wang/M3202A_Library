@@ -1,0 +1,12 @@
+LIBRARY
+EXPORTS
+  DdrCopy @1
+  DdrRead @2
+  DdrWrite @3
+  RegArrayRead @4
+  RegArrayWrite @5
+  RegRead @6
+  RegWrite @7
+  SessionClose @8
+  SessionOpen @9
+  ShowAddressMap @10

@@ -1,0 +1,7 @@
+C:\wjh\M3202A_Library\CSharpConsoleApp\bin\Debug\rsp.dll
+C:\wjh\M3202A_Library\CSharpConsoleApp\bin\Debug\CSharpConsoleApp.exe.config
+C:\wjh\M3202A_Library\CSharpConsoleApp\bin\Debug\CSharpConsoleApp.exe
+C:\wjh\M3202A_Library\CSharpConsoleApp\bin\Debug\CSharpConsoleApp.pdb
+C:\wjh\M3202A_Library\CSharpConsoleApp\obj\Debug\CSharpConsoleApp.exe
+C:\wjh\M3202A_Library\CSharpConsoleApp\obj\Debug\CSharpConsoleApp.pdb
+C:\wjh\M3202A_Library\CSharpConsoleApp\obj\Debug\CSharpConsoleApp.csprojResolveAssemblyReference.cache
